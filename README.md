@@ -36,5 +36,18 @@ adb shell pm -k --user 0 <package name>
  
  If you want to remove the app by just typing its packgae name .. run the code given below on windows or linux. Run the script ... Enjoy.
   
+  https://github.com/IamThejus/Android-App-Unistaller.git
+  
+ After that to make it executable open the folder and run terminal there and type 'chmod u+x App_Uninstaller.sh'
+ Then type './App_Uninstaller' to run the script...
+  
+# Things you should have
+ 
+  Git must be installed in your pc to download the link mentioned above.
+
+# Screenshot
+ ![App_pic](https://user-images.githubusercontent.com/92664795/170650177-45574cd5-e76d-497a-bfeb-f66c8e936e49.png)
+
+  
  
 
