@@ -27,3 +27,14 @@ This program be used for removing unwanted apps which slows the phone.There are 
 
 adb shell pm -k --user 0 <package name>
 
+# What is package name
+  
+  The package name of an Android app uniquely identifies your app on the device.
+  It can be found on the app info of that app . its mostly beigns with '.com'..
+
+# For Automation
+ 
+ If you want to remove the app by just typing its packgae name .. run the code given below on windows or linux. Run the script ... Enjoy.
+  
+ 
+
